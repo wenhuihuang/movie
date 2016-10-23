@@ -1,0 +1,7 @@
+跑起项目后台 ： 打开cmd命令行 进入movie目录 node app.js 运行在3000端口
+.bowerrc  这个文件是配置前端库的存放路径
+bower.json 前端库配置信息文件 用 bower init 生成
+package.json 后端配置信息文件 用 npm init 生成
+
+数据库 mongodb  是用本机（win10） 的数据库 movie
+数据库辅助工具 mongoose
